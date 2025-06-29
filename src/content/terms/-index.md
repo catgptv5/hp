@@ -1,10 +1,17 @@
 ---
-title: Terms & Conditions
+title: Catのルール
 ---
+
+## Catのルール
+
+1. ごはんの時間は厳守すること。
+2. 撫でる際は、Catの気分を最優先すること。
+3. 夜中の運動会は、静かに見守ること。
+4. デスクチェアはCatの私物である。
 
 ## Copyright
 
-&copy; 2025 Jane Doe. All rights reserved.
+&copy; 2025 Cat. All rights reserved.
 
 ## Reuse
 

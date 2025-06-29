@@ -1,9 +1,9 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+image: "@assets/profile/jane-doe.jpg"
+imageAlt: Catのロゴ
+title: Catの秘密基地へようこそ！
+content: キジトラのCatが、日々の出来事や、お気に入りのものについて気ままに綴っています。
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Catのブログを見る
+  link: /blog
 ---

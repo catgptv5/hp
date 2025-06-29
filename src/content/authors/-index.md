@@ -1,4 +1,4 @@
 ---
-title: Authors
-description: this is meta description
+title: 著者
+description: このサイトの著者、Catの紹介です。
 ---

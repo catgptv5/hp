@@ -1,8 +1,14 @@
 ---
-title: Hey, I'm Jane Doe!
-description: this is meta description
+title: Catのキャットタワー
+description: Catのキャットタワーです。
 image: "@assets/profile/jane-doe.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+我が家の愛猫、キジトラの「Cat」（オス・4歳）に、新しいキャットタワーがやってきました！
+
+本日我が家に仲間入りしたのは、ハンモック付きの据え置き型タワーです。
+
+実はCat、一時期はぽっちゃり体型で、高いところに登るのが少し苦手でした。しかし、今ではすっかりスリムになり、新しいタワーのてっぺんまで軽々と登っています。
+
+お気に入りのハンモックでくつろぐ姿が待ち遠しいです。これからこのキャットタワーで、Catがどんな姿を見せてくれるのか楽しみです。

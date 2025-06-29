@@ -1,9 +1,17 @@
 ---
-title: Freedom's Cost
-author: john-doe
-date: 2024-10-10
+title: ごはんはまだか
+author: cat
+date: 2025-06-29
 ---
 
-Walls that hold our fear,  
-Titans rise, a storm draws near,  
-Freedom’s cost is clear.
+朝焼けに　まどろむ部屋に　響く声
+「ごはんはまだか」　小さく響く
+
+皿の音　遠くで聞こえ　耳を立て
+「ごはんはまだか」　期待に震え
+
+足元に　すり寄る僕の　熱い視線
+「ごはんはまだか」　無言の圧力
+
+ああ、ご主人　早く気づいて　この空腹
+「ごはんはまだか」　心の叫び
