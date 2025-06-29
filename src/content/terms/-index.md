@@ -22,7 +22,7 @@ The source code for janedoe.com is protected under the MIT License. In short, yo
 ```md
 The MIT License (MIT)
 
-Copyright (c) 2025 Jane Doe
+Copyright (c) 2025 Cat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
